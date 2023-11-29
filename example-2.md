@@ -1,8 +1,8 @@
 # Cubic
 
-<img src="https://github.dev/willamemouzinho/network-simulator/blob/main/screenshots/rede-1.jpg" height="128"/>
+<img src="https://github.com/willamemouzinho/network-simulator/blob/main/screenshots/rede-1.jpg" height="128"/>
 
-**[Cubic](https://github.dev/willamemouzinho/network-simulator) ([Custom Ubuntu ISO Creator](https://github.dev/willamemouzinho/network-simulator/blob/main/test/texto.txt)) is a GUI wizard to create a customized Live ISO image for Ubuntu and Debian based distributions.**
+**[Cubic](https://github.com/willamemouzinho/network-simulator) ([Custom Ubuntu ISO Creator](https://github.com/willamemouzinho/network-simulator)) is a GUI wizard to create a customized Live ISO image for Ubuntu and Debian based distributions.**
 
 Cubic permits effortless navigation through the ISO customization steps and features an integrated virtual command line environment to customize the Linux file system. You can create new customization projects or modify existing projects. Important parameters are dynamically populated with intelligent defaults to simplify the customization process.
 
